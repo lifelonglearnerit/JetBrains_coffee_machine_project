@@ -1,0 +1,56 @@
+ON - 17:01:21
+ON - action_menu - 17:01:21
+ON - coffee_menu - 17:01:25
+ON - espresso_prep - 17:01:27
+ON - coffee_preparation - 17:01:27
+ON - action_menu - 17:01:27
+ON - coffee_menu - 17:01:33
+ON - latte_prep - 17:01:35
+ON - coffee_preparation - 17:01:35
+ON - action_menu - 17:01:35
+ON - fill_machine - 17:01:41
+ON - action_menu - 17:01:49
+ON - 17:02:07
+ON - action_menu - 17:02:07
+ON - 17:02:59
+ON - action_menu - 17:02:59
+ON - coffee_menu - 17:03:07
+ON - action_menu - 17:03:14
+ON - display_levels - 17:03:17
+ON - action_menu - 17:03:17
+ON - coffee_menu - 17:03:24
+ON - espresso_prep - 17:03:30
+ON - coffee_preparation - 17:03:30
+ON - action_menu - 17:03:30
+ON - coffee_menu - 17:03:38
+ON - espresso_prep - 17:03:40
+ON - coffee_preparation - 17:03:40
+ON - action_menu - 17:03:40
+ON - fill_machine - 17:03:49
+ON - 17:04:10
+ON - action_menu - 17:04:10
+ON - 17:04:20
+ON - action_menu - 17:04:20
+ON - coffee_menu - 17:04:23
+ON - espresso_prep - 17:04:26
+ON - coffee_preparation - 17:04:26
+ON - action_menu - 17:04:26
+ON - fill_machine - 17:04:40
+ON - action_menu - 17:04:47
+ON - take_money - 17:04:51
+ON - action_menu - 17:04:51
+ON - display_levels - 17:04:55
+ON - action_menu - 17:04:55
+ON - coffee_menu - 17:05:03
+ON - latte_prep - 17:05:06
+ON - coffee_preparation - 17:05:06
+ON - action_menu - 17:05:06
+ON - coffee_menu - 17:05:10
+ON - cappuccino_prep - 17:05:13
+ON - coffee_preparation - 17:05:13
+ON - action_menu - 17:05:13
+ON - coffee_menu - 17:05:16
+ON - action_menu - 17:05:18
+ON - display_levels - 17:05:25
+ON - action_menu - 17:05:25
+Switching OFF - machine - 17:05:31
